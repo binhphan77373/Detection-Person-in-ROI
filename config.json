@@ -1,6 +1,6 @@
 [{
-    "video_paths": ["C:/Users/ADMIN/Downloads/YOLO-Realtime-Human-Detection/Detection-Person-in-ROI/videos/test.mp4"],
-    "output_paths": ["C:/Users/ADMIN/Downloads/YOLO-Realtime-Human-Detection/Detection-Person-in-ROI/videos/output1.mp4"],
+    "video_paths": ["C:/Users/ADMIN/Documents/Detection-Person-in-ROI/videos/test.mp4"],
+    "output_paths": ["C:/Users/ADMIN/Documents/Detection-Person-in-ROI/videos/output1.mp4"],
     "rois": [
       [
         {
@@ -25,8 +25,8 @@
     ]
   },
 {
-    "video_paths": ["C:/Users/ADMIN/Downloads/YOLO-Realtime-Human-Detection/Detection-Person-in-ROI/videos/test2.mp4"],
-    "output_paths": ["C:/Users/ADMIN/Downloads/YOLO-Realtime-Human-Detection/Detection-Person-in-ROI/videos/output2.mp4"],
+    "video_paths": ["C:/Users/ADMIN/Documents/Detection-Person-in-ROI/videos/test2.mp4"],
+    "output_paths": ["CC:/Users/ADMIN/Documents/Detection-Person-in-ROI/videos/output2.mp4"],
     "rois": [
       [
         {
