@@ -2,7 +2,7 @@
 
 ## Overview
 This application uses the YOLOv8 object detection model to detect and count people in multiple regions of interest (ROIs) across multiple video streams. The system displays processed video streams in real-time alongside a chart that tracks person counts over time.
-
+![Person Detection System Demo](./assets/person-detection-demo.png)
 ## Features
 - Real-time person detection using YOLOv8
 - Support for multiple video streams simultaneously
